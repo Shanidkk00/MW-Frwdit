@@ -8,7 +8,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/ATHIF-EFX/MW-Frwdit",
+  "repository": "https://github.com/Shanidkk00/MW-Frwdit",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
